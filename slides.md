@@ -16,7 +16,7 @@ info: |
   Learn more at [Sli.dev](https://sli.dev)
 ---
 
-# Welcome to Slidev
+# Welcome to Mango3403
 
 Presentation slides for developers
 
