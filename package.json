@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "slidev --open",
     "build": "slidev build",
-    "export": "slidev export"
+    "export": "slidev export",
+    "deploy": "npx vercel"
   },
   "dependencies": {
     "@slidev/cli": "^0.6.10",
