@@ -1,6 +1,6 @@
 # Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" alt="Open in Visual Studio Code" height="24" />](https://vscode.dev/github/Mango3403/slidev-demo)
 
 ## Start
 
